@@ -1,0 +1,30 @@
+{
+  "name": "jwt",
+  "namespace": "gaspardkirira",
+  "version": "0.1.0",
+  "type": "header-only",
+  "include": "include",
+  "license": "MIT",
+  "description": "Minimal HS256 JWT implementation for modern C++.",
+  "keywords": [
+    "cpp",
+    "header-only",
+    "vix",
+    "jwt",
+    "hs256",
+    "auth"
+  ],
+  "repository": "https://github.com/GaspardKirira/jwt",
+  "authors": [
+    {
+      "name": "Gaspard Kirira",
+      "github": "GaspardKirira"
+    }
+  ],
+  "deps": [
+    {
+      "id": "gaspardkirira/hmac",
+      "version": "0.1.0"
+    }
+  ]
+}

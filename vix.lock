@@ -1,0 +1,19 @@
+{
+  "dependencies": [
+    {
+      "commit": "58483bdab99d052d55916c5121a7fee96657e4f7",
+      "id": "gaspardkirira/hmac",
+      "repo": "https://github.com/GaspardKirira/hmac",
+      "tag": "v0.1.1",
+      "version": "0.1.1"
+    },
+    {
+      "commit": "7a037b316726bc72ab722683bcd16519b848cc88",
+      "id": "gaspardkirira/hashing",
+      "repo": "https://github.com/GaspardKirira/hashing",
+      "tag": "v0.1.0",
+      "version": "0.1.0"
+    }
+  ],
+  "lockVersion": 1
+}
