@@ -18,10 +18,6 @@ else()
   target_compile_options(jwt INTERFACE -Wall -Wextra -Wpedantic)
 endif()
 
-# --- Vix deps (hmac, hashing) ---
-include(.vix/vix_deps.cmake)
-target_link_libraries(jwt INTERFACE gaspardkirira::hmac gaspardkirira::hashing)
-
 include(CTest)
 enable_testing()
 

@@ -1,7 +1,7 @@
 {
   "name": "jwt",
-  "namespace": "gaspardkirira",
-  "version": "0.1.0",
+  "namespace": "gk",
+  "version": "1.0.0",
   "type": "header-only",
   "include": "include",
   "license": "MIT",
